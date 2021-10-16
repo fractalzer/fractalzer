@@ -9,6 +9,9 @@ I will learn C# ♦️<br>
 <a href="https://github.com/fractalzer">
   <img align="center" style="margin:0.5rem" src="https://gpvc.arturio.dev/fractalzer" alt="Profile views" />
 </a>
+<a href="https://github.com/fractalzer">
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/github/watchers/fractalzer/my_python_pf?color=00&label=watching%20now" alt="Watching now" />
+</a>
 <hr>
 <a href="https://github.com/fractalzer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fractalzer&theme=white&title_color=000000&text_color=000000&layout=compact" alt="Language" />
