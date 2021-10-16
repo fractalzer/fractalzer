@@ -1,4 +1,4 @@
-<h1>hi i fractal 🔷</h1>
+<h1>fractal 🔷</h1>
 I learning html/css 🔶
 <hr>
 I will learn JavaScript ♦️<br>
