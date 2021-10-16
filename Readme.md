@@ -1,4 +1,4 @@
-<h1>fractal 🔷</h1>
+<img src="20211016_160610.jpg">
 <hr>
 I learning html/css 🔶<br>
 I learning python 🔶<br>
