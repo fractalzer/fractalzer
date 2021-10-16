@@ -6,7 +6,7 @@ I will learn Java ♦️<br>
 I will learn Python ♦️
 <hr>
 <a href="https://github.com/fractalzer">
-  <img align="center" style="margin:0.5rem" src="https://gpvc.arturio.dev/fractalzer" alt="Profile view" />
+  <img align="center" style="margin:0.5rem" src="https://gpvc.arturio.dev/fractalzer" alt="Profile views" />
 </a>
 <a href="https://github.com/fractalzer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fractalzer&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="GitHub Stats" />
