@@ -4,7 +4,7 @@
 <hr>
 I learning html/css 🔶<br>
 I learning python 🔶<br>
-I will learn JavaScript ♦️<br>
+I will learn JavaScript 🔶<br>
 I will learn Java ♦️<br>
 I will learn C# ♦️<br>
 <hr>
