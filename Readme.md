@@ -7,7 +7,8 @@ I learning html/css 🔶<br>
 I learning python 🔶<br>
 I will learn JavaScript 🔶<br>
 I will learn Java ♦️<br>
-I will learn C# ♦️<br>
+I will learn
+<img src="icons/20211017_165718.png">
 <hr>
 <a href="https://github.com/fractalzer">
   <img align="center" style="margin:0.5rem" src="https://gpvc.arturio.dev/fractalzer" alt="Profile views" />
