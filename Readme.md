@@ -40,4 +40,5 @@ I will learn C# ♦️
 <a href="https://www.youtube.com/channel/UCRZv2vv8h8I7pLeFSzAQFFw">
   <img align="center" style="margin:0.5rem" src="https://img.shields.io/youtube/channel/subscribers/UCRZv2vv8h8I7pLeFSzAQFFw?style=flat-square" alt="Subscribers">
   <img align="center" style="margin:0.5rem" src="https://img.shields.io/youtube/channel/views/UCRZv2vv8h8I7pLeFSzAQFFw?style=flat-square">
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/video-1-red?style=flat-square">
 </a>
